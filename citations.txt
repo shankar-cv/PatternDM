@@ -1,0 +1,22 @@
+If you find this software useful in your work (in part or in
+whole), please cite the associated papers:
+
+Shankar C. Venkataramani, Alan C. Newell, Disk galaxies and their dark halos as self-organized patterns,
+Physics Letters B, Volume 813, 136060 (2021) https://doi.org/10.1016/j.physletb.2020.136060.
+
+
+@article{Venkataramani2021Self,
+	author = {Venkataramani, Shankar C. and Newell, Alan C.},
+	da = {2021/02/10/},
+	doi = {https://doi.org/10.1016/j.physletb.2020.136060},
+	isbn = {0370-2693},
+	journal = {Physics Letters B},
+	keywords = {Self-organized patterns; Symmetry breaking; Defects; Dark matter; Galaxy scaling relations},
+	pages = {136060},
+	title = {Disk galaxies and their dark halos as self-organized patterns},
+	ty = {JOUR},
+	url = {http://www.sciencedirect.com/science/article/pii/S0370269320308637},
+	volume = {813},
+	year = {2021},
+	Bdsk-Url-1 = {http://www.sciencedirect.com/science/article/pii/S0370269320308637},
+	Bdsk-Url-2 = {https://doi.org/10.1016/j.physletb.2020.136060}}
