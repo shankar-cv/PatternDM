@@ -4,6 +4,8 @@ whole), please cite the associated papers:
 Shankar C. Venkataramani, Alan C. Newell, Disk galaxies and their dark halos as self-organized patterns,
 Physics Letters B, Volume 813, 136060 (2021) https://doi.org/10.1016/j.physletb.2020.136060.
 
+Pattern dark matter and galaxy scaling relations,Shankar C. Venkataramani and Alan C. Newell}, 
+arxiv:eprint 2101.08372, (2021).
 
 @article{Venkataramani2021Self,
 	author = {Venkataramani, Shankar C. and Newell, Alan C.},
@@ -20,3 +22,12 @@ Physics Letters B, Volume 813, 136060 (2021) https://doi.org/10.1016/j.physletb.
 	year = {2021},
 	Bdsk-Url-1 = {http://www.sciencedirect.com/science/article/pii/S0370269320308637},
 	Bdsk-Url-2 = {https://doi.org/10.1016/j.physletb.2020.136060}}
+
+@misc{venkataramani2021pattern,
+      title={Pattern dark matter and galaxy scaling relations}, 
+      author={Shankar C. Venkataramani and Alan C. Newell},
+      year={2021},
+      eprint={2101.08372},
+      archivePrefix={arXiv},
+      primaryClass={astro-ph.GA}
+}
